@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/",
+    "gh_url": "https://github.com/",
+    "tw_url": "https://github.com/",
+    "sub_url": "blogss liked by ummah",
+    "a_txt": "yes i am !",
+    "no_of_blog": 3,
+    "login-image": "bootstrap-solid.svg",
+    "admin-user": "sahil",
+    "admin-password": "khan",
+    "upload_location": "C:\\Users\\DELL PC\\PycharmProjects\\pythonflaskproject\\static",
+    "gmail-user": "mdinamulhasan1999@gmail.com",
+    "gmail-password": "INAina@123"
+  }
+}
